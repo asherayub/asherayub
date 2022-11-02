@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Asher Ayub</h1>
 <h3 align="center">Frontend Web Developer from Pakistan, sitting in front of computer daily to learn something new each day.</h3>
 <ul>
-<li>A passionate frontend dev working for more than a year now. </li> 
-<li>All of my work that I did in a journey to be a dev is <em>public</em>. </li>
-<li>Always looking for new opportunities. </li>
-<li>You can reach me through <b>email</b> provided or find me on <b>social</b> at the end. </li>
+<li>A passionate frontend dev working for more than a year now.</li> 
+<li>All of my work that I did in a journey to be a dev is <em>public</em>.</li>
+<li>Always looking for new opportunities.</li>
+<li>You can reach me through <b>email</b> provided or find me on one of my <b>social</b> handles at the end.</li>
 </ul>
-<h1>HAPPY CODING 🙂</h1>
+<h3>Happy Coding 🙂</h3>
 
 
 - 📫 Email **asherayub52@gmail.com**
