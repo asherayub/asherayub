@@ -17,12 +17,21 @@
 <img title="Udemy" width="100px" height="30px"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
 &nbsp;
 <h1>⚙ Languages and Tools I use:</h1>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,materialui,vscode,git,github,netlify" />
-  </a>
-</p>
+<img title="HTML 5" align="left" width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
+<img title="CSS 3" align="left" width="100px" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
+<img title="Bootstrap" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img title="JavaScript" align="left" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img title="jQuery" align="left" width="100px" height="30px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 <p>&nbsp;</p>
+<img title="React" align="left" width="100px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img title="Redux" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img title="Material UI" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+<img title="Hyper" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" alt="Hyper" />
+<img title="Git" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p>&nbsp;</p>
+<img title="GitHub" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img title="Netlify" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<p>&nbsp;</p><p>&nbsp;</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img aligh="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
 <p>&nbsp;</p>
