@@ -9,6 +9,9 @@
 <p>👉 Always looking for new opportunities.</p>
 <p>👉 You can reach me through <b>email</b> provided or find me on one of my <b>social</b> handles at the end.</p>
 &nbsp;
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <br/>
 <h1><img width="25px" src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=790b761101d09acc23634fe6d387d3beb04d7c149c510286&rid=giphy.gif&ct=s" /> Resources I've learnt from:</h1>
 <img title="FreeCodeCamp" align="left" width="100px" height="30px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Free Code Camp" /> 
 <img title="GeeksForGeeks" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks" />
@@ -35,11 +38,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </br>
-</br>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</br>
-</br>
+</br> 
   <h1><img width="25px" src="https://media3.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47ocwz1a50fzrt0jhcxxwjai4dh22xlsawwtr9afwx&rid=giphy.gif&ct=s" /> Connect with me:</h1>
   <a href="mailto:asherayub52@gmail.com" target="blank"><img width="100px%"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
   <a href="https://linkedin.com/in/asherayub101" target="blank"><img width="100px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" height="30" /></a>
