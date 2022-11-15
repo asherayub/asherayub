@@ -31,6 +31,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
 <!-- ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
+
 <p>&nbsp;</p>
 <h3>Connect with me:</h3>
 <a href="mailto:asherayub52@gmail.com" target="blank"><img width="100px%" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
