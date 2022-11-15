@@ -34,7 +34,7 @@
 <img title="Netlify" align="left" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
 <p>&nbsp;</p>
 <div align="center">
