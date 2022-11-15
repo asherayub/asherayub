@@ -37,8 +37,9 @@
 <img title="Netlify" align="left" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</br>
-</br> 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
   <h1><img width="25px" src="https://media3.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47ocwz1a50fzrt0jhcxxwjai4dh22xlsawwtr9afwx&rid=giphy.gif&ct=s" /> Connect with me:</h1>
   <a href="mailto:asherayub52@gmail.com" target="blank"><img width="100px%"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
   <a href="https://linkedin.com/in/asherayub101" target="blank"><img width="100px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" height="30" /></a>
