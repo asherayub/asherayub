@@ -17,18 +17,21 @@
 <img title="Udemy" align="center" width="100px" height="30px"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
 &nbsp;
 <h1>⚙ Languages and Tools I use:</h1>
-<img title="HTML 5" align="left" width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
-<img title="CSS 3" align="left" width="100px" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
-<img title="Bootstrap" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img title="JavaScript" align="left" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img title="jQuery" align="left" width="100px" height="30px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-<img title="React" align="left" width="100px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img title="Redux" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-<img title="Material UI" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
-<img title="Hyper" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" alt="Hyper" />
-<img title="Git" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img title="GitHub" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img title="Netlify" align="left" width="100px" height="30px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img title="HTML 5" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" />
+<img title="CSS 3" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS 3" />
+<img title="Bootstrap" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" />
+<img title="JavaScript" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" />
+<img title="jQuery" align="left" width="50px" height="50px" src="https://simpledevcode.files.wordpress.com/2014/08/jquery_logo.png?w=640" alt="jQuery" />
+<img title="React" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" />
+<img title="Redux" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" />
+<img title="Material UI" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" />
+<img title="Figma" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" />
+
+<img title="NPM" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" />
+<img title="Git" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" />
+<img title="GitHub" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" />
+<img title="VS Code" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" />
+<img title="Netlify" align="left" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
