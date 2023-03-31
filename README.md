@@ -1,16 +1,15 @@
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm <em>Asher Ayub</em></h1>
-<h3 align="center">Frontend Web Developer from Pakistan, learning something new each day
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
+<h1 >Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm <em>Asher Ayub</em></h1>
+<h2 ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&width=435&lines=A+Frontend+Web+Developer;Based+in+Pakistan" alt="Typing SVG" /></a></h2>
+
   
 &nbsp;
-<p>👉 A passionate frontend dev who makes websites.</p> 
+<p>👉 A guy who makes websites.</p> 
 <p>👉 All of my work that I did in a journey to be a dev is <em>public</em>.</p>
 <p>👉 Always looking for new opportunities.</p>
-<p>👉 You can reach me through <b>email</b> provided or find me on one of my <b>social</b> handles at the end.</p>
+<p>👉 You can reach me through <b>email</b> provided or find me on one of my <b>socials</b> linked at the end.</p>
 &nbsp;
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asherayub&theme=tokyonight" alt="mystreak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asherayub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
   <br/>
 <h1><img width="25px" src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=790b761101d09acc23634fe6d387d3beb04d7c149c510286&rid=giphy.gif&ct=s" /> Resources I've learnt from:</h1>
 <img title="FreeCodeCamp" align="left" width="100px" height="30px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Free Code Camp" /> 
