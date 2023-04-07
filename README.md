@@ -27,6 +27,8 @@
 <img title="React" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" />
 <img title="Redux" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" />
 <img title="Material UI" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" />
+<img title="Chakra UI" align="left" width="50px" height="50px" src="https://osawards.com/react/pic/chakra.png" alt="Chakra UI" />
+
 <img title="Figma" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" />
 
 <img title="NPM" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" />
