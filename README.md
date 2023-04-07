@@ -18,7 +18,7 @@
 <img title="Scrimba" align="left" width="100px" height="30px" src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba" />
 <img title="Udemy" align="center" width="100px" height="30px"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
 &nbsp;
-<h1><img width="25px" src="https://media4.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif?cid=ecf05e47tllm5abrnhxrh5n8otofdxifg5p4xl4dsdl2zucv&rid=giphy.gif&ct=s" /> Languages and Tools I use:</h1>
+<h1><img width="25px" src="https://media4.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif?cid=ecf05e47tllm5abrnhxrh5n8otofdxifg5p4xl4dsdl2zucv&rid=giphy.gif&ct=s" /> Languages / Libraries / Frameworks / Tools:</h1>
 <img title="HTML 5" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" />
 <img title="CSS 3" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS 3" />
 <img title="Bootstrap" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" />
