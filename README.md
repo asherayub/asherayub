@@ -1,23 +1,3 @@
-
-<h1 >Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm <em>Asher Ayub</em></h1>
-<h2 ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&width=435&lines=A+Frontend+Web+Developer;Based+in+Pakistan" alt="Typing SVG" /></a></h2>
-
-  
-&nbsp;
-<p>👉 A guy who makes websites.</p> 
-<p>👉 All of my work that I did in a journey to be a dev is <em>public</em>.</p>
-<p>👉 Always looking for new opportunities.</p>
-<p>👉 You can reach me through <b>email</b> provided or find me on one of my <b>socials</b> linked at the end.</p>
-&nbsp;
-
-  <br/>
-<h1><img width="25px" src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=790b761101d09acc23634fe6d387d3beb04d7c149c510286&rid=giphy.gif&ct=s" /> Resources I've learnt from:</h1>
-<img title="FreeCodeCamp" align="left" width="100px" height="30px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Free Code Camp" /> 
-<img title="GeeksForGeeks" align="left" width="100px" height="30px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks" />
-<img title="MDN Web Docs" align="left" width="100px" height="30px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN" />
-<img title="Scrimba" align="left" width="100px" height="30px" src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba" />
-<img title="Udemy" align="center" width="100px" height="30px"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
-&nbsp;
 <h1><img width="25px" src="https://media4.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif?cid=ecf05e47tllm5abrnhxrh5n8otofdxifg5p4xl4dsdl2zucv&rid=giphy.gif&ct=s" /> Languages / Libraries / Frameworks / Tools:</h1>
 <img title="HTML 5" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" />
 <img title="CSS 3" align="left" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS 3" />
